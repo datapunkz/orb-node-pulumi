@@ -19,7 +19,7 @@
   "homepage": "https://github.com/datapunkz/nodejs-cicd-workshop#readme",
   "dependencies": {
     "ejs": "^2.6.1",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "mocha": "^5.2.0",
     "request": "^2.88.0"
   }
