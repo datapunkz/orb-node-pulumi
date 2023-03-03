@@ -20,7 +20,7 @@
   "dependencies": {
     "ejs": "^2.6.1",
     "express": "^4.16.4",
-    "mocha": "^5.2.0",
+    "mocha": "^10.2.0",
     "request": "^2.88.0"
   }
 }
